@@ -6,6 +6,7 @@ Welcome to the Riot Rythm Festival 2024! Here, you'll experience the pinnacle of
 
 ## Table of Contents
 - [Introduction](#introduction)
+- [Agile Methodology](#agile-methodology)
 - [User Experience (UX)](#user-experience-ux)
   - [The Strategy](#the-strategy)
   - [The Scope](#the-scope)
@@ -43,6 +44,9 @@ Welcome to the Riot Rythm Festival 2024! Here, you'll experience the pinnacle of
 
 ## <a id="introduction">Introduction</a>
 Welcome to this freedom of music. This is where you will have your best time in 2024.
+
+## <a id="agile-methodology">Agile Methodology</a>
+This project is managed using Agile principles tailored for a solo developer, focusing on iterative development and continuous improvement. I utilize a flexible approach to project management that allows for adapting to changes and refining features based on ongoing evaluation and feedback. To help manage tasks and progress, I employ a Kanban board. The link to the board can be found [Here](https://github.com/users/JorgenDIF/projects/4). It provides a visual overview of ongoing, upcoming, and completed work, ensuring that I stay organized and focused on the most critical tasks at hand. This personal agility ensures that the development process remains aligned with the evolving project goals and my learning objectives.
 
 ## <a id="user-experience-ux">User Experience (UX)</a>
 ### <a id="the-strategy">The Strategy</a>
