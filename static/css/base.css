@@ -21,6 +21,7 @@
 /* Set <html> and <body> height to fill the viewport */
 html, body {
     height: 100%;
+
 }
 
 /* Set <body> to use flexbox layout, stack children vertically, and apply main font */
@@ -28,6 +29,7 @@ body {
     display: flex;
     flex-direction: column;
     font-family: var(--main-font);
+
 }
 
 /* Allow <main> to grow and shrink within the flex container, and set its background color */
@@ -39,6 +41,21 @@ main {
 /** Footer */
 footer {
     flex-shrink: 0;
+    background-color: var(--off-white);
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    border-top: var(--border);
+}
+
+.social-icon {
+    height: 2rem;
+    margin: 1rem;
+    color: var(--black);
+}
+
+.social-icon a {
+    color: var(--black);
 }
 
 /** Header */
